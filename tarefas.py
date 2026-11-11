@@ -1,3 +1,6 @@
+# Sistema de gerenciamento de tarefas
+# Permite cadastrar, listar e organizar tarefas
+
 import argparse
 import json
 from pathlib import Path
